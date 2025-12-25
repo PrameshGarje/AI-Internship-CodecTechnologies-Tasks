@@ -28,8 +28,23 @@ This project is a simple **Content-Based Movie Recommendation System** that sugg
 |-------|--------|
 | Avengers: Endgame | Action Adventure Sci-Fi |
 | Iron Man | Action Adventure Sci-Fi |
-| ... | ... |
+| Coco | Animation Family Fantasy |
+| The Dark Knight | Action Crime Drama |
+| Interstellar | Adventure Drama Sci-Fi |
 
 ---
 
 ## ▶ Example Output
+Enter a movie name: Iron Man
+
+Recommended Movies:
+
+Avengers: Endgame
+
+Inception
+
+Thor: Ragnarok
+
+Interstellar
+
+The Dark Knight
